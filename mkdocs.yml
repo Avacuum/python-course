@@ -7,6 +7,8 @@ nav:
     - Цикл for: lesson5-for.md
     - Строки: lesson6-strings.md
     - Словари: dict.md
+    - Типы данных: datatypes-intro.md
+    - Срезы: lesson6-slices.md
 
 markdown_extensions:
     - smarty
