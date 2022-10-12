@@ -18,6 +18,7 @@ nav:
         - Создание функций: functions.md
         - args и kwargs: args.md
         - Рекурсия в функциях: recurtion.md
+      - Кортежи: tuples.md
 
 markdown_extensions:
     - smarty
@@ -54,6 +55,8 @@ theme:
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
+  - attr_list
+  - md_in_html
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
