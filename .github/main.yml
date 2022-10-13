@@ -1,2 +1,0 @@
-- name: MkDocs Action
-  uses: Tiryoh/actions-mkdocs@v0.17.0
