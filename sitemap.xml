@@ -2,52 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://avacuum.xyz/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avacuum.xyz/args/</loc>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/datatypes-intro/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/dict/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avacuum.xyz/functions/</loc>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/if/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/lesson1/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/lesson4-lists/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/lesson5-for/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/lesson6-slices/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/lesson6-strings/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avacuum.xyz/recurtion/</loc>
+         <lastmod>2022-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avacuum.xyz/tuples/</loc>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://avacuum.xyz/while-python/</loc>
-         <lastmod>2022-10-12</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
